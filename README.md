@@ -1,4 +1,4 @@
-# Todo API
+# Todo Application API
 
 In the fast-paced world of task management, our Todo API project offers a robust solution for users to organize and track their tasks efficiently.
 
